@@ -1,4 +1,4 @@
-<img align='right' src="./Github Bitmoji.png" width="230" height="350">
+<img align='right' src="./Github Bitmoji.png" width="200" height="350">
 
 ### Hi there 👋
 #### This is Nischal 🙏🏻
