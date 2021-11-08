@@ -1,3 +1,5 @@
+<img align='right' src="./Github Bitmoji.png" width="230" height="350">
+
 ### Hi there 👋
 #### This is Nischal 🙏🏻
 #### I am a Frontend developer from India 🇮🇳
@@ -23,7 +25,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simhanischal&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simhanischal&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=cobalt&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simhanischal&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
