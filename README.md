@@ -1,8 +1,10 @@
-<img align='right' src="./Github Bitmoji.png" width="200" height="350">
-
 ### Hi there 👋
+
+<img align='right' src="./Github Bitmoji.png" width="150" height="250">
+
 #### This is Nischal 🙏🏻
 #### I am a Frontend developer from India 🇮🇳
+
 
 <a href="https://linkedin.com/in/nischal-simha-79753662">
   <img align="left" alt="Nischal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
