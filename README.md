@@ -2,12 +2,12 @@
 
 <img align='right' src="./Github Bitmoji.png" width="150" height="250">
 
-#### This is Nischal 🙏🏻
-#### I am a Frontend developer from India 🇮🇳
+#### This is Vinayak S
+#### I am a DevSecOps Engineer
 
 
-<a href="https://linkedin.com/in/nischal-simha-79753662">
-  <img align="left" alt="Nischal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vinayaks439/">
+  <img align="left" alt="Vinayak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://nischalsimha.netlify.app">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
