@@ -9,17 +9,14 @@
 <a href="https://www.linkedin.com/in/vinayaks439/">
   <img align="left" alt="Vinayak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://nischalsimha.netlify.app">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" />
-</a>
 
 <br />
 <br />
 
 **About Me**
-- 💼 Software Engineer at Accenture
-- ❤️ I love writing JavaScript and building Web UI 
-- 💬 Reach out to me on my [mail](mailto:nischalsimhas@gmail.com)
+- 💼 DevSecOps Engineer at SAP
+- ❤️ I love writing code in Python and Go
+- 💬 Reach out to me on my [mail](mailto:vinayaks439@gmail.com)
 
 **Languages and Tools:**  
 
