@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align='right' src="./Github Bitmoji.png" width="150" height="250">
-
 #### This is Vinayak S
 #### I am a DevSecOps Engineer
 
