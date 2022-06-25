@@ -16,6 +16,10 @@
 - ❤️ I love writing code in Python and Go
 - 💬 Reach out to me on my [mail](mailto:vinayaks439@gmail.com)
 
+**My recent certification**
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="de69af1f-c4ed-45f5-b19b-01f73c88a6b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 **Languages and Tools:**  
 
 
